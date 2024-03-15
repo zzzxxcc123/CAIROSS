@@ -23,7 +23,7 @@
 
 저희는 보다 더 자세한 제작 배경을 설명하고, 사용한 모델과 서비스 시연을 통해 앞으로의 개선방향과 활용방안 및 트러블 슈팅 순서로 발표를 진행하겠습니다. 
 
-<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/99aa75fa-ce46-4b2c-8349-b343db49f62b](https://github.com/zzzxxcc123/CAIROSS/assets/117971016/f255b221-d80a-4e05-a340-ba733db4d580)">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/f255b221-d80a-4e05-a340-ba733db4d580">
 한국이 OECD 국가 중 자살률이 1위라는 사실은 모두가 알고 계실 거라고 생각합니다. 
 10만 명당 28.7명으로, 19.4명인 헝가리보다 10명이나 더 많습니다.
 우리나라의 전체 인구 중 만사천명이 넘는 사람이 스스로 목숨을 끊는 것입니다. 
