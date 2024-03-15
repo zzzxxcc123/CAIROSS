@@ -1,4 +1,4 @@
-# 🏥 CAIROSS - Cliff Alarm for Rescue Of Severe Situation
+![image](https://github.com/zzzxxcc123/CAIROSS/assets/117971016/f3817a85-ce31-49a0-86de-9fa287f19ac3)# 🏥 CAIROSS - Cliff Alarm for Rescue Of Severe Situation
 <img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/37811747-5441-4414-a1b4-4b06a516fb84">
 
 ##### 다리위 자살 행위 방지 시스템 
@@ -16,6 +16,7 @@
 -----------------
 ## 💡 프로젝트 기획
 ### **CAIROSS**
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/99aa75fa-ce46-4b2c-8349-b343db49f62b">
 
 팀명인 "카이로스"는 클리프 알람, 아이템 폴 래스큐 오브 시비어 시츄에이션의 약자로, 
 그리스 신화의 카이로스 신에서 영감을 받아 탄생했습니다. 
@@ -24,10 +25,12 @@
 
 저희는 보다 더 자세한 제작 배경을 설명하고, 사용한 모델과 서비스 시연을 통해 앞으로의 개선방향과 활용방안 및 트러블 슈팅 순서로 발표를 진행하겠습니다. 
 
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/99aa75fa-ce46-4b2c-8349-b343db49f62b](https://github.com/zzzxxcc123/CAIROSS/assets/117971016/f255b221-d80a-4e05-a340-ba733db4d580)">
 한국이 OECD 국가 중 자살률이 1위라는 사실은 모두가 알고 계실 거라고 생각합니다. 
 10만 명당 28.7명으로, 19.4명인 헝가리보다 10명이나 더 많습니다.
 우리나라의 전체 인구 중 만사천명이 넘는 사람이 스스로 목숨을 끊는 것입니다. 
 
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/4bb1fa87-0c81-4b5d-930e-ab014c660090">
 자살을 하면 고통이 끝나는 걸까요?  자살 시도자들의 말을 들어보면 자살은 매우 고통스러운 일이라고 합니다. 
 상상속에서의 자살은 잠자듯이, 고통 없이 끝날 줄 알았는데 그게 아니었고, 정말 힘들어서 다신 시도하고 싶지 않다고 합니다.
 이렇게 자살 시도 후 후회하는 사람들이 더 이상 나오지 않기 바라는 마음으로 저희는 이상 행동을 감지하여 자살하기 전에 발견하면 좋을 것 같다고 생각했습니다.
@@ -39,8 +42,6 @@
 약간의 방해하는 움직임이나 장애물만으로도 자살 충동을 억제할 수 있다고 합니다.
 하지만 모든 다리에 자살 예방 장애물을 세울 수는 없음으로 저희는 실시간 모니터링을 할 수 있는 AI를 개발하고자 합니다.
 
-
-<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/99aa75fa-ce46-4b2c-8349-b343db49f62b">
 
 ## ✏️ 사용한 공공데이터
 1. [AI 허브 - 보행 안전을 위한 도로 시설물 데이터](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15000563](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=513))
