@@ -1,6 +1,4 @@
-![image](https://github.com/zzzxxcc123/CAIROSS/assets/117971016/f3817a85-ce31-49a0-86de-9fa287f19ac3)# 🏥 CAIROSS - Cliff Alarm for Rescue Of Severe Situation
-<img width="100%" alt="image" src="https://github.com/zzzxxcc123/CAIROSS/assets/117971016/37811747-5441-4414-a1b4-4b06a516fb84">
-
+# 🏥 CAIROSS - Cliff Alarm for Rescue Of Severe Situation
 ##### 다리위 자살 행위 방지 시스템 
 ###### 인원: 5명
 
